@@ -5,6 +5,9 @@
  * Released under the MIT license.
  *
  * More information: http://github.com/rudionrails/mongodb-maintenance
+ 
+ $ mongo --port 27017 script/backup.js
+ 
  */
 
 
